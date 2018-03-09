@@ -1,0 +1,1847 @@
+{
+    "versions": "v0.0.1",
+    "city": "香港",
+    "map": "http://www.mtr.com.hk/ch/customer/st/index.php",
+    "city_key": "hongkong",
+    "lineData": [
+        {
+            "lineId": "1",
+            "key": "DTL",
+            "lineName": "東鐵",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "九龍塘",
+                    "eName": "Kowloon Tong",
+                    "index": 1,
+                    "code": "HK-1-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "沙田",
+                    "eName": "Sha Tin",
+                    "index": 2,
+                    "code": "HK-1-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "馬場",
+                    "eName": "Racecourse",
+                    "index": 3,
+                    "code": "HK-1-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "大學",
+                    "eName": "University",
+                    "index": 4,
+                    "code": "HK-1-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "大埔墟",
+                    "eName": "Tai Po Market",
+                    "index": 5,
+                    "code": "HK-1-5",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "太和",
+                    "eName": "Tai Wo",
+                    "index": 6,
+                    "code": "HK-1-6",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "粉嶺",
+                    "eName": "Fanling",
+                    "index": 7,
+                    "code": "HK-1-7",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "上水",
+                    "eName": "Sheung Shui",
+                    "index": 8,
+                    "code": "HK-1-8",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "落馬洲",
+                    "eName": "Lok Ma Chau",
+                    "index": 9,
+                    "code": "HK-1-9",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "羅湖",
+                    "eName": "Lo Wu",
+                    "index": 10,
+                    "code": "HK-1-10",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "旺角東",
+                    "eName": "Mong Kok East",
+                    "index": 11,
+                    "code": "HK-1-11",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "紅磡",
+                    "eName": "Hung Hom",
+                    "index": 12,
+                    "code": "HK-1-12",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "火炭",
+                    "eName": "Fo Tan",
+                    "index": 13,
+                    "code": "HK-1-13",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "大圍",
+                    "eName": "Tai Wai",
+                    "index": 14,
+                    "code": "HK-1-14",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "2",
+            "key": "GTL",
+            "lineName": "觀塘",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "觀塘",
+                    "eName": "Kwun Tong",
+                    "index": 1,
+                    "code": "HK-2-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "樂富",
+                    "eName": "Lok Fu",
+                    "index": 2,
+                    "code": "HK-2-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "彩虹",
+                    "eName": "Choi Hung",
+                    "index": 3,
+                    "code": "HK-2-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "牛頭角",
+                    "eName": "Ngau Tau Kok",
+                    "index": 4,
+                    "code": "HK-2-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "油塘",
+                    "eName": "Yau Tong",
+                    "index": 5,
+                    "code": "HK-2-5",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "調景嶺",
+                    "eName": "Tiu Keng Leng",
+                    "index": 6,
+                    "code": "HK-2-6",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "鑽石山",
+                    "eName": "Diamond Hill",
+                    "index": 7,
+                    "code": "HK-2-7",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "九龍灣",
+                    "eName": "Kowloon Bay",
+                    "index": 8,
+                    "code": "HK-2-8",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "黃埔",
+                    "eName": "Whampoa",
+                    "index": 9,
+                    "code": "HK-2-9",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "藍田",
+                    "eName": "Lam Tin",
+                    "index": 10,
+                    "code": "HK-2-10",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "旺角",
+                    "eName": "Mong Kok",
+                    "index": 11,
+                    "code": "HK-2-11",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "太子",
+                    "eName": "Prince Edward",
+                    "index": 12,
+                    "code": "HK-2-12",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "石硤尾",
+                    "eName": "Shek Kip Mei",
+                    "index": 13,
+                    "code": "HK-2-13",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "黃大仙",
+                    "eName": "Wong Tai Sin",
+                    "index": 14,
+                    "code": "HK-2-14",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "油麻地",
+                    "eName": "Yau Ma Tei",
+                    "index": 15,
+                    "code": "HK-2-15",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "何文田",
+                    "eName": "Ho Man Tin",
+                    "index": 16,
+                    "code": "HK-2-16",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "3",
+            "key": "QWL",
+            "lineName": "荃灣",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "葵芳",
+                    "eName": "Kwai Fong",
+                    "index": 1,
+                    "code": "HK-3-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "深水&#22487;",
+                    "eName": "Sham Shui Po",
+                    "index": 2,
+                    "code": "HK-3-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "佐敦",
+                    "eName": "Jordan",
+                    "index": 3,
+                    "code": "HK-3-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "長沙灣",
+                    "eName": "Cheung Sha Wan",
+                    "index": 4,
+                    "code": "HK-3-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "&#33560;枝角",
+                    "eName": "Lai Chi Kok",
+                    "index": 5,
+                    "code": "HK-3-5",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "尖沙咀",
+                    "eName": "Tsim Sha Tsui",
+                    "index": 6,
+                    "code": "HK-3-6",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "美孚",
+                    "eName": "Mei Foo",
+                    "index": 7,
+                    "code": "HK-3-7",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "葵興",
+                    "eName": "Kwai Hing",
+                    "index": 8,
+                    "code": "HK-3-8",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "大窩口",
+                    "eName": "Tai Wo Hau",
+                    "index": 9,
+                    "code": "HK-3-9",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "荃灣",
+                    "eName": "Tsuen Wan",
+                    "index": 10,
+                    "code": "HK-3-10",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "4",
+            "key": "GDL",
+            "lineName": "港島",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "西灣河",
+                    "eName": "Sai Wan Ho",
+                    "index": 1,
+                    "code": "HK-4-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "筲箕灣",
+                    "eName": "Shau Kei Wan",
+                    "index": 2,
+                    "code": "HK-4-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "杏花&#37032;",
+                    "eName": "Heng Fa Chuen",
+                    "index": 3,
+                    "code": "HK-4-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "太古",
+                    "eName": "Tai Koo",
+                    "index": 4,
+                    "code": "HK-4-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "天后",
+                    "eName": "Tin Hau",
+                    "index": 5,
+                    "code": "HK-4-5",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "香港大學",
+                    "eName": "HKU",
+                    "index": 6,
+                    "code": "HK-4-6",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "堅尼地城",
+                    "eName": "Kennedy Town",
+                    "index": 7,
+                    "code": "HK-4-7",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "西營盤",
+                    "eName": "Sai Ying Pun",
+                    "index": 8,
+                    "code": "HK-4-8",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "銅鑼灣",
+                    "eName": "Causeway Bay",
+                    "index": 9,
+                    "code": "HK-4-9",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "&#39938;魚涌",
+                    "eName": "Quarry Bay",
+                    "index": 10,
+                    "code": "HK-4-10",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "柴灣",
+                    "eName": "Chai Wan",
+                    "index": 11,
+                    "code": "HK-4-11",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "金鐘",
+                    "eName": "Admiralty",
+                    "index": 12,
+                    "code": "HK-4-12",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "中環",
+                    "eName": "Central",
+                    "index": 13,
+                    "code": "HK-4-13",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "炮台山",
+                    "eName": "Fortress Hill",
+                    "index": 14,
+                    "code": "HK-4-14",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "北角",
+                    "eName": "North Point",
+                    "index": 15,
+                    "code": "HK-4-15",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "灣仔",
+                    "eName": "Wan Chai",
+                    "index": 16,
+                    "code": "HK-4-16",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "上環",
+                    "eName": "Sheung Wan",
+                    "index": 17,
+                    "code": "HK-4-17",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "5",
+            "key": "JTL",
+            "lineName": "機鐵快",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "九龍",
+                    "eName": "Kowloon",
+                    "index": 1,
+                    "code": "HK-5-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "機場",
+                    "eName": "Airport",
+                    "index": 2,
+                    "code": "HK-5-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "九龍",
+                    "eName": "Kowloon",
+                    "index": 3,
+                    "code": "HK-5-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "香港",
+                    "eName": "Hong Kong",
+                    "index": 4,
+                    "code": "HK-5-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "香港",
+                    "eName": "Hong Kong",
+                    "index": 5,
+                    "code": "HK-5-5",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "博覽館",
+                    "eName": "Asia World-Expo",
+                    "index": 6,
+                    "code": "HK-5-6",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "青衣",
+                    "eName": "Tsing Yi",
+                    "index": 7,
+                    "code": "HK-5-7",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "青衣",
+                    "eName": "Tsing Yi",
+                    "index": 8,
+                    "code": "HK-5-8",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "6",
+            "key": "DYL",
+            "lineName": "東涌",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "&#33560;景",
+                    "eName": "Lai King",
+                    "index": 1,
+                    "code": "HK-6-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "東涌",
+                    "eName": "Tung Chung",
+                    "index": 2,
+                    "code": "HK-6-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "南昌",
+                    "eName": "Nam Cheong",
+                    "index": 3,
+                    "code": "HK-6-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "奧運",
+                    "eName": "Olympic",
+                    "index": 4,
+                    "code": "HK-6-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "7",
+            "key": "JJL",
+            "lineName": "將軍澳",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "寶琳",
+                    "eName": "Po Lam",
+                    "index": 1,
+                    "code": "HK-7-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "康城",
+                    "eName": "LOHAS Park",
+                    "index": 2,
+                    "code": "HK-7-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "坑口",
+                    "eName": "Hang Hau",
+                    "index": 3,
+                    "code": "HK-7-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "將軍澳",
+                    "eName": "Tseung Kwan O",
+                    "index": 4,
+                    "code": "HK-7-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "8",
+            "key": "DSL",
+            "lineName": "迪士尼",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "欣澳",
+                    "eName": "Sunny Bay",
+                    "index": 1,
+                    "code": "HK-8-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "迪士尼",
+                    "eName": "Disneyland Resort",
+                    "index": 2,
+                    "code": "HK-8-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "9",
+            "key": "MAL",
+            "lineName": "馬鞍山",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "車公廟",
+                    "eName": "Che Kung Temple",
+                    "index": 1,
+                    "code": "HK-9-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "沙田圍",
+                    "eName": "Sha Tin Wai",
+                    "index": 2,
+                    "code": "HK-9-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "石門",
+                    "eName": "Shek Mun",
+                    "index": 3,
+                    "code": "HK-9-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "大水坑",
+                    "eName": "Tai Shui Hang",
+                    "index": 4,
+                    "code": "HK-9-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "烏溪沙",
+                    "eName": "Wu Kai Sha",
+                    "index": 5,
+                    "code": "HK-9-5",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "第一城",
+                    "eName": "City One",
+                    "index": 6,
+                    "code": "HK-9-6",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "恆安",
+                    "eName": "Heng On",
+                    "index": 7,
+                    "code": "HK-9-7",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "馬鞍山",
+                    "eName": "Ma On Shan",
+                    "index": 8,
+                    "code": "HK-9-8",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "10",
+            "key": "XTL",
+            "lineName": "西鐵",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "荃灣西",
+                    "eName": "Tsuen Wan West",
+                    "index": 1,
+                    "code": "HK-10-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "錦上路",
+                    "eName": "Kam Sheung Road",
+                    "index": 2,
+                    "code": "HK-10-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "元朗",
+                    "eName": "Yuen Long",
+                    "index": 3,
+                    "code": "HK-10-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "朗屏",
+                    "eName": "Long Ping",
+                    "index": 4,
+                    "code": "HK-10-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "天水圍",
+                    "eName": "Tin Shui Wai",
+                    "index": 5,
+                    "code": "HK-10-5",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "兆康",
+                    "eName": "Siu Hong",
+                    "index": 6,
+                    "code": "HK-10-6",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "屯門",
+                    "eName": "Tuen Mun",
+                    "index": 7,
+                    "code": "HK-10-7",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "柯士甸",
+                    "eName": "Austin",
+                    "index": 8,
+                    "code": "HK-10-8",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "尖東",
+                    "eName": "East Tsim Sha Tsui",
+                    "index": 9,
+                    "code": "HK-10-9",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        },
+        {
+            "lineId": "11",
+            "key": "NGL",
+            "lineName": "南港島",
+            "lineDiscribe": "",
+            "gisKey": "",
+            "color": "",
+            "stages": [
+                {
+                    "name": "海洋公園",
+                    "eName": "Ocean Park",
+                    "index": 1,
+                    "code": "HK-11-1",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "利東",
+                    "eName": "Lei Tung",
+                    "index": 2,
+                    "code": "HK-11-2",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "海怡半島",
+                    "eName": "South Horizons",
+                    "index": 3,
+                    "code": "HK-11-3",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                },
+                {
+                    "name": "黃竹坑",
+                    "eName": "Wong Chuk Hang",
+                    "index": 4,
+                    "code": "HK-11-4",
+                    "position": {
+                        "lat": 0,
+                        "lng": 0,
+                        "bdlat": 0,
+                        "bdlng": 0
+                    },
+                    "runTime": {
+                        "startOne": "",
+                        "startTow": "",
+                        "endOne": "",
+                        "endTow": ""
+                    }
+                }
+            ]
+        }
+    ],
+    "entrysData": null
+}
