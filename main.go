@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hu17889/go_spider/core/common/page"
-	"github.com/hu17889/go_spider/core/pipeline"
-	"github.com/hu17889/go_spider/core/spider"
+	// "github.com/hu17889/go_spider/core/common/page"
+	// "github.com/hu17889/go_spider/core/pipeline"
+	// "github.com/hu17889/go_spider/core/spider"
 	py "github.com/mozillazg/go-pinyin"
 )
 
@@ -87,9 +87,11 @@ func main() {
 type LineInfo struct {
 	Faresaver Faresaver
 }
+
 type Faresaver struct {
 	Facilities []Facilities
 }
+
 type Facilities struct {
 	LINE            string
 	STATION_ID      string
