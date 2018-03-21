@@ -6,27 +6,6 @@ import (
 	"github.com/gocolly/colly"
 )
 
-// func main() {
-// 	c := colly.NewCollector()
-
-// 	// Find and visit all links
-// 	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
-// 		link := e.Attr("href")
-
-// 		fmt.Printf("ChildText: %s\n", e.ChildText("RYGLineStatus"))
-// 		fmt.Printf("Link found: %q -> %s\n", e.Text, link)
-// 		e.Request.Visit(link)
-// 	})
-
-// 	c.OnRequest(func(r *colly.Request) {
-// 		fmt.Println("Visiting", r.URL)
-// 	})
-
-// 	// c.Visit("http://go-colly.org/")
-// 	c.Visit("http://www.mtr.com.hk/ch/customer/main/index.html")
-
-// }
-
 func main() {
 	c := colly.NewCollector()
 
